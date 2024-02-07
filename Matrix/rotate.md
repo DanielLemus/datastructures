@@ -20,8 +20,6 @@ console.log("Rotated Matrix:", rotatedMatrix);
 
 function rotateMatrix(matrix: number[][]){
 
-    console.log(matrix.length)
-
    //switch diagonal places (4,2) (7,3) (8,6), the main diagonal 1, 5, 9 remains the same
    for(let i: number = 0; i < matrix.length; i++){
       for(let j: number = i + 1; j < matrix.length; j++){
