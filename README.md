@@ -15,7 +15,7 @@
 - [ ] Shuffling: Randomly rearranging the elements of an array.
 - [x] Reversing: Changing the order of elements in an array.
 - [x] Rotating: Moving elements of an array circularly by a certain number of positions.
-- [] Searching Algorithms: Techniques for efficiently finding elements or subsets within an array (e.g., binary search).
+- [ ] Searching Algorithms: Techniques for efficiently finding elements or subsets within an array (e.g., binary search).
 - [x] Two Pointers Technique: Optimizing algorithms by using two pointers to iterate through an array simultaneously.
 - [x] Sliding Window Technique: Efficiently solving problems involving subarrays of fixed length within an array.
 - [x] Prefix Sum: Optimizing algorithms by precomputing cumulative sums of elements in an array.
