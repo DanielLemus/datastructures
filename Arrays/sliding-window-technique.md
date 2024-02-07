@@ -13,16 +13,15 @@ Consider the array [4, 2, 1, 7, 8, 1, 2, 8, 1, 0] and a window size k = 3.
 ## Expected Result:
 
 > Array: [4, 2, 1, 7, 8, 1, 2, 8, 1, 0]
-> Window 1: [4, 2, 1] -> Sum: 7
-> Window 2: [2, 1, 7] -> Sum: 10
-> Window 3: [1, 7, 8] -> Sum: 16 (Maximum sum)
-> Window 4: [7, 8, 1] -> Sum: 16
-> Window 5: [8, 1, 2] -> Sum: 11
-> Window 6: [1, 2, 8] -> Sum: 11
-> Window 7: [2, 8, 1] -> Sum: 11
-> Window 8: [8, 1, 0] -> Sum: 9
-
-> Expected Result: 16 (Maximum sum of subarray with size 3)
+ Window 1: [4, 2, 1] -> Sum: 7
+ Window 2: [2, 1, 7] -> Sum: 10
+ Window 3: [1, 7, 8] -> Sum: 16 (Maximum sum)
+ Window 4: [7, 8, 1] -> Sum: 16
+ Window 5: [8, 1, 2] -> Sum: 11
+ Window 6: [1, 2, 8] -> Sum: 11
+ Window 7: [2, 8, 1] -> Sum: 11
+ Window 8: [8, 1, 0] -> Sum: 9
+ Expected Result: 16 (Maximum sum of subarray with size 3)
 
 ## Explanation:
 
