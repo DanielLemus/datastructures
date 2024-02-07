@@ -1,18 +1,18 @@
 # Arrays
 
 - [x] Sorting: Reordering elements in an array in a specific order.
-- [] Searching: Finding the index or value of a specific element in an array.
-- [] Filtering: Creating a new array containing only elements that meet certain criteria.
-- [] Mapping: Creating a new array by applying a function to each element of an existing array.
-- [] Reducing/Aggregating: Combining all elements of an array into a single value (e.g., sum, average, maximum).
-- [] Iterating/Looping: Accessing each element in an array sequentially.
-- [] Inserting/Adding: Adding elements to an array at specific positions.
-- [] Removing/Deleting: Removing elements from an array at specific positions.
-- [] Concatenating: Combining multiple arrays into a single array.
-- [] Copying/Cloning: Creating a duplicate of an existing array.
-- [] Slicing: Extracting a portion of an array into a new array.
-- [] Merging/Merging: Combining two arrays into one, possibly based on some condition.
-- [] Shuffling: Randomly rearranging the elements of an array.
+- [ ] Searching: Finding the index or value of a specific element in an array.
+- [ ] Filtering: Creating a new array containing only elements that meet certain criteria.
+- [ ] Mapping: Creating a new array by applying a function to each element of an existing array.
+- [ ] Reducing/Aggregating: Combining all elements of an array into a single value (e.g., sum, average, maximum).
+- [ ] Iterating/Looping: Accessing each element in an array sequentially.
+- [ ] Inserting/Adding: Adding elements to an array at specific positions.
+- [ ] Removing/Deleting: Removing elements from an array at specific positions.
+- [ ] Concatenating: Combining multiple arrays into a single array.
+- [ ] Copying/Cloning: Creating a duplicate of an existing array.
+- [ ] Slicing: Extracting a portion of an array into a new array.
+- [ ] Merging/Merging: Combining two arrays into one, possibly based on some condition.
+- [ ] Shuffling: Randomly rearranging the elements of an array.
 - [x] Reversing: Changing the order of elements in an array.
 - [x] Rotating: Moving elements of an array circularly by a certain number of positions.
 - [] Searching Algorithms: Techniques for efficiently finding elements or subsets within an array (e.g., binary search).
