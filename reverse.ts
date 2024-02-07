@@ -11,9 +11,7 @@ function reverseArray(arr: number[]){
 
    while(start < end){
 
-     // this is equals to  
-     // arr[start] =  arr[end]
-     // arr[end] = arr[start]
+     // Modify array indexes without loosing previous value
      [arr[start], arr[end]] =  [arr[end], arr[start]]
         
         start++
