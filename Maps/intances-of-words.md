@@ -28,7 +28,7 @@ Output the result for each word.
 let letters = "aabccdefghtt";
 let words = ["cat", "hat", "man"];
 
-function instancesOfWords(letters, words) {
+function instancesOfWords(letters: string, words: string[]) {
     let charactersMap = new Map();
 
     for (let char of letters) {
