@@ -4,27 +4,27 @@
 
 An equilibrium point in an array is a position such that the sum of elements before it is equal to the sum of elements after it. Write a function to find the equilibrium point of a given array, or return -1 if no equilibrium point exists.
 
-# Input
+## Input
 
 An array of integers nums.
 
-# Example Input:
+## Example Input:
 
 ```typescript
 [1, 4, 6, 2, 1, 2];
 ```
 
-# Output
+## Output
 
 The equilibrium point of the array, or -1 if no equilibrium point exists.
 
-# Example Output:
+## Example Output:
 
 ```typescript
 Equilibrium Point: 2
 ```
 
-# Solution
+## Solution
 
 ```typescript
 // Example usage:
@@ -54,7 +54,7 @@ function findEquilibriumPoint(nums: number[]): number {
 }
 ```
 
-# About the code
+## About the code
 
 This code defines a function findEquilibriumPoint that takes an array of integers nums as input and returns the equilibrium point of the array or -1 if no equilibrium point exists. The function iterates through the array once, calculating the total sum of all elements and updating the left sum iteratively. If at any point the left sum becomes equal to the total sum minus the current element, it returns the current index as the equilibrium point. If no equilibrium point is found after iterating through the array, the function returns -1.
 

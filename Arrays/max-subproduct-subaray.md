@@ -8,23 +8,23 @@ Given an integer array `nums`, find the contiguous subarray within the array tha
 
 An array of integers `nums`.
 
-# Example Input:
+## Example Input:
 
 ```typescript
 const array = [2, 3, -2, 4, -1];
 ```
 
-# Output
+## Output
 
 The maximum product of a contiguous subarray within the input array.
 
-# Example Output:
+## Example Output:
 
 ```typescript
 Maximum Product Subarray: 48
 ```
 
-# Solution
+## Solution
 
 We can solve this problem efficiently using dynamic programming. We maintain two variables maxProduct and minProduct, which represent the maximum and minimum product of a subarray ending at the current element. We also keep track of the overall maximum product encountered so far (result).
 
@@ -67,11 +67,11 @@ function maxProductSubarray(nums: number[]): number {
 }
 ```
 
-# About the Code
+## About the Code
 
 The provided code implements the solution described above. It defines a function maxProductSubarray that takes an array of integers as input and returns the maximum product of a contiguous subarray within the array. The function efficiently handles both positive and negative numbers in the array and returns the correct result.
 
-# Example usage:
+## Example usage:
 
 ```typescript
 const array = [2, 3, -2, 4, -1];
